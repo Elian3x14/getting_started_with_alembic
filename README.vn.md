@@ -1,4 +1,6 @@
+<!--titile-->
 # Tìm Hiểu Về Alembic – Thư Viện Migration Cho Python
+<!--/titile-->
 
 Trong phát triển ứng dụng Python, đặc biệt khi dùng **SQLAlchemy**, việc quản lý **thay đổi cơ sở dữ liệu** là rất quan trọng. **Alembic** giúp tạo và quản lý migrations, đảm bảo schema của database luôn đồng bộ với code.
 
