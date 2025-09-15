@@ -1,5 +1,6 @@
-
+<!--title-->
 # Getting Started with Alembic: Database Migrations in Python
+<!--/title-->
 
 In Python application development, especially when using **SQLAlchemy**, managing **database schema changes** is crucial. **Alembic** helps you create and manage migrations, ensuring that the database schema stays consistent with your code.
 
